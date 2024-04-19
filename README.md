@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+This project is an LED puzzle where each switch represents a dorm on the Notre Dame campus. 
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
