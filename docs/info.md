@@ -13,13 +13,13 @@ There are eight switches on this DIP Switch, each representing a dorm on campus.
 
 Switch #
 
-1- Alumni
-2- Carroll
-3- Keenan
-4- Dillon
-5- Flaherty
-6- Welsh Fam
-7- Pasquerilla East
+1- Alumni,
+2- Carroll,
+3- Keenan,
+4- Dillon,
+5- Flaherty,
+6- Welsh Fam,
+7- Pasquerilla East,
 8- Fischer Grad
 
 
