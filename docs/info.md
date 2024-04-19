@@ -9,12 +9,24 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+There are eight switches on this DIP Switch, each representing a dorm on campus. The LED can be lit up with a minimum of three switches turned on. These three switches represent the best male dorm (Alumni, Carroll, Keenan, or Dillon), the best female dorm (Flaherty, Welsh Fam, or PE), and the best gender-neutral dorm (Fischer Grad). For example, a valid combination would be Alumni, Flaherty, Fischer Grad. 
+
+Switch #
+1- Alumni
+2- Carroll
+3- Keenan
+4- Dillon
+5- Flaherty
+6- Welsh Fam
+7- Pasquerilla East
+8- Fischer Grad
+
+
 
 ## How to test
 
-Explain how to use your project
+This puzzle is supposed to be a trial and error practice for students to learn about logic gates. Thus, to test it, play around with using different switches to see what lights up the LED. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+One external LED is needed
