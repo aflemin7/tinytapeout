@@ -12,6 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 There are eight switches on this DIP Switch, each representing a dorm on campus. The LED can be lit up with a minimum of three switches turned on. These three switches represent the best male dorm (Alumni, Carroll, Keenan, or Dillon), the best female dorm (Flaherty, Welsh Fam, or PE), and the best gender-neutral dorm (Fischer Grad). For example, a valid combination would be Alumni, Flaherty, Fischer Grad. 
 
 Switch #
+
 1- Alumni
 2- Carroll
 3- Keenan
